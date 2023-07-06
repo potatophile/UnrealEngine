@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/ARProject/Content/OM/MyCamera.uasset",
+				"D:/Unreal Projects/ARProject/Content/OM/CubeActor.uasset",
+				"D:/Unreal Projects/ARProject/Content/Week01.umap",
+				"D:/Unreal Projects/ARProject/Content/OM/GM.uasset",
+				"D:/Unreal Projects/ARProject/Content/OM/Week01.umap",
+				"D:/Unreal Projects/ARProject/Content/OM/ARcrosshair_80682_Mat.uasset",
+				"D:/Unreal Projects/ARProject/Content/OM/ARcrosshair.uasset",
+				"D:/Unreal Projects/ARProject/Content/OM/ARcrosshair_Mat.uasset"
+			]
+		}
+	]
+}
