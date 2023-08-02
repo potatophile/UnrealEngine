@@ -2,21 +2,21 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "C6B88F81A5A267204B1E8052B46125242BB402EB",
+			"ShaderMapHash": "39E1A7BD8E5FDE5E32D9AA061EED06DB48F3FC68",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "9630D0C46C11799FE931AE1254D8F0A97657449B",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigGizmoMaterial"
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "45A45FAC27AAFADFAF8E30661DD7FD3F83CD0DE8",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6B88F81A5A267204B1E8052B46125242BB402EB",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -47,6 +47,12 @@
 			"ShaderMapHash": "80B0BD2E4834BD547A7A443632E10BE39841FDBE",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9630D0C46C11799FE931AE1254D8F0A97657449B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
 			]
 		},
 		{
@@ -98,21 +104,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "39E1A7BD8E5FDE5E32D9AA061EED06DB48F3FC68",
+			"ShaderMapHash": "2943F355D8F77E138386D47536658CA8E2B15D6A",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "EB5B219D4F7183A5D84395EBC073C9A6A12605C2",
+			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
 			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "249F17EDBFE216B9E5C5B72F7B66CCA8D35E9105",
+			"ShaderMapHash": "6EEC3646E1CD33C17A028D9471B02D2AD7F3E3EA",
 			"Assets": [
-				"/ControlRig/M_Manip"
+				"/Game/OM/Models/Star/glassesFrames_001"
+			]
+		},
+		{
+			"ShaderMapHash": "E3FD30CDA7B62E177EFD811572C8D0A2A8153D0E",
+			"Assets": [
+				"/Game/OM/Models/Star/lens_001"
+			]
+		},
+		{
+			"ShaderMapHash": "9693E599EE2CCC54BFBC80A39E4684289C688023",
+			"Assets": [
+				"/Game/OM/Models/Star/Star_001"
 			]
 		},
 		{
@@ -140,39 +158,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "60CD5C1CBFF40071C819568C1CEB32AFB0D86EDC",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "EB5B219D4F7183A5D84395EBC073C9A6A12605C2",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "249F17EDBFE216B9E5C5B72F7B66CCA8D35E9105",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
 			"ShaderMapHash": "760405D83D976E87B3583AF3262590531BF86B9F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "0EE4C5416736118707EF5DBD5F034D8939D33B27",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
-			]
-		},
-		{
-			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
@@ -207,9 +213,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2943F355D8F77E138386D47536658CA8E2B15D6A",
+			"ShaderMapHash": "0D3C1D5E47C8A35E956C93ECA6240F571FE020A2",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
+				"/Game/OM/ARcrosshair_Mat"
 			]
 		},
 		{
@@ -225,15 +231,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
+			"ShaderMapHash": "0EE4C5416736118707EF5DBD5F034D8939D33B27",
 			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
-			"ShaderMapHash": "0D3C1D5E47C8A35E956C93ECA6240F571FE020A2",
+			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
 			"Assets": [
-				"/Game/OM/ARcrosshair_Mat"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
@@ -258,6 +276,24 @@
 			"ShaderMapHash": "7DDFE36E6527E5551EBD224155907EFD577859CD",
 			"Assets": [
 				"/Game/OM/Models/Boar_Vessel_600-500BC_Etruscan_Ceramic/source/Boar_Vessel/Boar_Vessel_Mats"
+			]
+		},
+		{
+			"ShaderMapHash": "A0C3EBA2190C95612AF0F370E0F590E0D8816B86",
+			"Assets": [
+				"/Game/OM/Models/fishing_boat-1/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "28079EB28DB926DD808FBA988ADD0E0D6B7E7DCB",
+			"Assets": [
+				"/Game/OM/Models/a_statue_of_a_sheep/textured_0"
+			]
+		},
+		{
+			"ShaderMapHash": "2966B2D15271D5CBC11A78334E7798937F8F8682",
+			"Assets": [
+				"/Game/TMPosedHumansChildrenPack1/Characters/Child07/materials/Child"
 			]
 		},
 		{

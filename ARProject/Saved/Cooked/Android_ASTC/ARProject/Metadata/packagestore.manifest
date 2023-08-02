@@ -37,8 +37,36 @@
 			"ChunkId": "f477e97a48c18bfd00000001"
 		},
 		{
+			"Path": "ARProject/Content/OM/Audio/BAA_BAA_BLACK_SHEEP.uasset",
+			"ChunkId": "071d1f4cc6f3272800000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Audio/BAA_BAA_BLACK_SHEEP.ubulk",
+			"ChunkId": "071d1f4cc6f3272800000002"
+		},
+		{
+			"Path": "ARProject/Content/OM/Audio/Row_Row_Row_Your_Boat_-_Super_Simple_Songs_mp3cut_net.uasset",
+			"ChunkId": "36d22eb6f0f771a600000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Audio/Row_Row_Row_Your_Boat_-_Super_Simple_Songs_mp3cut_net.ubulk",
+			"ChunkId": "36d22eb6f0f771a600000002"
+		},
+		{
+			"Path": "ARProject/Content/OM/Audio/Twinkle_Twinkle_little_star.uasset",
+			"ChunkId": "bb836001a52855d300000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Audio/Twinkle_Twinkle_little_star.ubulk",
+			"ChunkId": "bb836001a52855d300000002"
+		},
+		{
 			"Path": "ARProject/Content/OM/Boar_Vessel_600-500BC_Etruscan_Ceramic.uasset",
 			"ChunkId": "e4b41ff06e29e0c900000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Boat.uasset",
+			"ChunkId": "2129df9049ca8dde00000001"
 		},
 		{
 			"Path": "ARProject/Content/OM/DataAssets/blacksheep.uasset",
@@ -67,6 +95,10 @@
 		{
 			"Path": "ARProject/Content/OM/DataAssets/BoatCandidateImage.uasset",
 			"ChunkId": "e7ee916fe6acb66c00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/DataAssets/GoogleARCoreImageDatabase.uasset",
+			"ChunkId": "cafd7c05d543a8a900000001"
 		},
 		{
 			"Path": "ARProject/Content/OM/DataAssets/MyARSessionConfig.uasset",
@@ -105,6 +137,26 @@
 			"ChunkId": "c3d2a0a4a743a01800000001"
 		},
 		{
+			"Path": "ARProject/Content/OM/Models/a_statue_of_a_sheep/MDL_OBJ_textured_0.uasset",
+			"ChunkId": "90c493a97601f91a00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/a_statue_of_a_sheep/MDL_OBJ_textured_01.uasset",
+			"ChunkId": "d6bdfb824d5ba0c500000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/a_statue_of_a_sheep/textured_0.uasset",
+			"ChunkId": "bbd4f58a0014a57f00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/a_statue_of_a_sheep/textured_0_baseColor.uasset",
+			"ChunkId": "e6861e5bbc0aa99300000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/a_statue_of_a_sheep/textured_0_baseColor.ubulk",
+			"ChunkId": "e6861e5bbc0aa99300000002"
+		},
+		{
 			"Path": "ARProject/Content/OM/Models/Boar_Vessel_600-500BC_Etruscan_Ceramic/source/Boar_Vessel/Boar_Vessel_Mats.uasset",
 			"ChunkId": "1693708a6ce7221000000001"
 		},
@@ -141,16 +193,72 @@
 			"ChunkId": "bb3d5ef7a5a25d0600000001"
 		},
 		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial.uasset",
+			"ChunkId": "18a9c8c24ace879000000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_baseColor.uasset",
+			"ChunkId": "093b9b83d2c1525600000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_baseColor.ubulk",
+			"ChunkId": "093b9b83d2c1525600000002"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_metallicRoughness.uasset",
+			"ChunkId": "2d56e59e5dffa93200000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_metallicRoughness.ubulk",
+			"ChunkId": "2d56e59e5dffa93200000002"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_normal.uasset",
+			"ChunkId": "6f88326bb0da576b00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/DefaultMaterial_normal.ubulk",
+			"ChunkId": "6f88326bb0da576b00000002"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/fishing_boat-1/scene.uasset",
+			"ChunkId": "867c37023bc164c900000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/Star/glassesFrames_001.uasset",
+			"ChunkId": "fdc648dfe9aee55d00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/Star/lens_001.uasset",
+			"ChunkId": "a1175e702eda02cb00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/Star/star.uasset",
+			"ChunkId": "be301301fa83b34100000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/Star/Star_001.uasset",
+			"ChunkId": "ae16f7033358fa8300000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Models/Star/star_Skeleton.uasset",
+			"ChunkId": "f081bd066a7a3a7f00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Sheep.uasset",
+			"ChunkId": "93a873858f7dab3e00000001"
+		},
+		{
+			"Path": "ARProject/Content/OM/Star.uasset",
+			"ChunkId": "83f4c028efbbb55c00000001"
+		},
+		{
 			"Path": "ARProject/Content/OM/UI/AR_UI.uasset",
 			"ChunkId": "6df576666df80baf00000001"
 		},
 		{
 			"Path": "ARProject/Content/OM/UI/Icons/1976053_home_home_page_homepage_homepages_icon.uasset",
 			"ChunkId": "ad6a671f20b7f94300000001"
-		},
-		{
-			"Path": "ARProject/Content/OM/UI/Icons/8675265_scan_thumb_up_regular_icon.uasset",
-			"ChunkId": "8d4e7161d2e440d600000001"
 		},
 		{
 			"Path": "ARProject/Content/OM/UI/Icons/arrow-right.uasset",
@@ -171,6 +279,26 @@
 		{
 			"Path": "ARProject/Content/OM/UI/JosefinSans-Regular_Font.uasset",
 			"ChunkId": "d6dab522d9eee34000000001"
+		},
+		{
+			"Path": "ARProject/Content/TMPosedHumansChildrenPack1/Characters/Child07/materials/Child.uasset",
+			"ChunkId": "68ff1160a580659f00000001"
+		},
+		{
+			"Path": "ARProject/Content/TMPosedHumansChildrenPack1/Characters/Child07/materials/MI_Child07.uasset",
+			"ChunkId": "f39a854a1424f2fa00000001"
+		},
+		{
+			"Path": "ARProject/Content/TMPosedHumansChildrenPack1/Characters/Child07/SM_Child07.uasset",
+			"ChunkId": "cafe438f3d72af6700000001"
+		},
+		{
+			"Path": "ARProject/Content/TMPosedHumansChildrenPack1/Characters/Child07/textures/T_Child07_BC.uasset",
+			"ChunkId": "9d95bccb3f16fdb100000001"
+		},
+		{
+			"Path": "ARProject/Content/TMPosedHumansChildrenPack1/Characters/Child07/textures/T_Child07_BC.ubulk",
+			"ChunkId": "9d95bccb3f16fdb100000002"
 		},
 		{
 			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
@@ -2596,9 +2724,42 @@
 			]
 		},
 		{
+			"Name": "/Game/OM/Audio/BAA_BAA_BLACK_SHEEP",
+			"ExportBundleChunkIds": [
+				"071d1f4cc6f3272800000001"
+			],
+			"BulkDataChunkIds": [
+				"071d1f4cc6f3272800000002"
+			]
+		},
+		{
+			"Name": "/Game/OM/Audio/Row_Row_Row_Your_Boat_-_Super_Simple_Songs_mp3cut_net",
+			"ExportBundleChunkIds": [
+				"36d22eb6f0f771a600000001"
+			],
+			"BulkDataChunkIds": [
+				"36d22eb6f0f771a600000002"
+			]
+		},
+		{
+			"Name": "/Game/OM/Audio/Twinkle_Twinkle_little_star",
+			"ExportBundleChunkIds": [
+				"bb836001a52855d300000001"
+			],
+			"BulkDataChunkIds": [
+				"bb836001a52855d300000002"
+			]
+		},
+		{
 			"Name": "/Game/OM/Boar_Vessel_600-500BC_Etruscan_Ceramic",
 			"ExportBundleChunkIds": [
 				"e4b41ff06e29e0c900000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Boat",
+			"ExportBundleChunkIds": [
+				"2129df9049ca8dde00000001"
 			]
 		},
 		{
@@ -2635,6 +2796,12 @@
 			"Name": "/Game/OM/DataAssets/BoatCandidateImage",
 			"ExportBundleChunkIds": [
 				"e7ee916fe6acb66c00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/DataAssets/GoogleARCoreImageDatabase",
+			"ExportBundleChunkIds": [
+				"cafd7c05d543a8a900000001"
 			]
 		},
 		{
@@ -2689,6 +2856,33 @@
 			]
 		},
 		{
+			"Name": "/Game/OM/Models/a_statue_of_a_sheep/MDL_OBJ_textured_0",
+			"ExportBundleChunkIds": [
+				"90c493a97601f91a00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/a_statue_of_a_sheep/MDL_OBJ_textured_01",
+			"ExportBundleChunkIds": [
+				"d6bdfb824d5ba0c500000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/a_statue_of_a_sheep/textured_0",
+			"ExportBundleChunkIds": [
+				"bbd4f58a0014a57f00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/a_statue_of_a_sheep/textured_0_baseColor",
+			"ExportBundleChunkIds": [
+				"e6861e5bbc0aa99300000001"
+			],
+			"BulkDataChunkIds": [
+				"e6861e5bbc0aa99300000002"
+			]
+		},
+		{
 			"Name": "/Game/OM/Models/Boar_Vessel_600-500BC_Etruscan_Ceramic/source/Boar_Vessel/Boar_Vessel_Mats",
 			"ExportBundleChunkIds": [
 				"1693708a6ce7221000000001"
@@ -2734,6 +2928,87 @@
 			]
 		},
 		{
+			"Name": "/Game/OM/Models/fishing_boat-1/DefaultMaterial",
+			"ExportBundleChunkIds": [
+				"18a9c8c24ace879000000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/fishing_boat-1/DefaultMaterial_baseColor",
+			"ExportBundleChunkIds": [
+				"093b9b83d2c1525600000001"
+			],
+			"BulkDataChunkIds": [
+				"093b9b83d2c1525600000002"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/fishing_boat-1/DefaultMaterial_metallicRoughness",
+			"ExportBundleChunkIds": [
+				"2d56e59e5dffa93200000001"
+			],
+			"BulkDataChunkIds": [
+				"2d56e59e5dffa93200000002"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/fishing_boat-1/DefaultMaterial_normal",
+			"ExportBundleChunkIds": [
+				"6f88326bb0da576b00000001"
+			],
+			"BulkDataChunkIds": [
+				"6f88326bb0da576b00000002"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/fishing_boat-1/scene",
+			"ExportBundleChunkIds": [
+				"867c37023bc164c900000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/Star/glassesFrames_001",
+			"ExportBundleChunkIds": [
+				"fdc648dfe9aee55d00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/Star/lens_001",
+			"ExportBundleChunkIds": [
+				"a1175e702eda02cb00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/Star/star",
+			"ExportBundleChunkIds": [
+				"be301301fa83b34100000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/Star/Star_001",
+			"ExportBundleChunkIds": [
+				"ae16f7033358fa8300000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Models/Star/star_Skeleton",
+			"ExportBundleChunkIds": [
+				"f081bd066a7a3a7f00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Sheep",
+			"ExportBundleChunkIds": [
+				"93a873858f7dab3e00000001"
+			]
+		},
+		{
+			"Name": "/Game/OM/Star",
+			"ExportBundleChunkIds": [
+				"83f4c028efbbb55c00000001"
+			]
+		},
+		{
 			"Name": "/Game/OM/UI/AR_UI",
 			"ExportBundleChunkIds": [
 				"6df576666df80baf00000001"
@@ -2743,12 +3018,6 @@
 			"Name": "/Game/OM/UI/Icons/1976053_home_home_page_homepage_homepages_icon",
 			"ExportBundleChunkIds": [
 				"ad6a671f20b7f94300000001"
-			]
-		},
-		{
-			"Name": "/Game/OM/UI/Icons/8675265_scan_thumb_up_regular_icon",
-			"ExportBundleChunkIds": [
-				"8d4e7161d2e440d600000001"
 			]
 		},
 		{
@@ -2779,6 +3048,33 @@
 			"Name": "/Game/OM/UI/JosefinSans-Regular_Font",
 			"ExportBundleChunkIds": [
 				"d6dab522d9eee34000000001"
+			]
+		},
+		{
+			"Name": "/Game/TMPosedHumansChildrenPack1/Characters/Child07/materials/Child",
+			"ExportBundleChunkIds": [
+				"68ff1160a580659f00000001"
+			]
+		},
+		{
+			"Name": "/Game/TMPosedHumansChildrenPack1/Characters/Child07/materials/MI_Child07",
+			"ExportBundleChunkIds": [
+				"f39a854a1424f2fa00000001"
+			]
+		},
+		{
+			"Name": "/Game/TMPosedHumansChildrenPack1/Characters/Child07/SM_Child07",
+			"ExportBundleChunkIds": [
+				"cafe438f3d72af6700000001"
+			]
+		},
+		{
+			"Name": "/Game/TMPosedHumansChildrenPack1/Characters/Child07/textures/T_Child07_BC",
+			"ExportBundleChunkIds": [
+				"9d95bccb3f16fdb100000001"
+			],
+			"BulkDataChunkIds": [
+				"9d95bccb3f16fdb100000002"
 			]
 		},
 		{
