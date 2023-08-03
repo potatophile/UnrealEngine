@@ -104,15 +104,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2943F355D8F77E138386D47536658CA8E2B15D6A",
+			"ShaderMapHash": "60CD5C1CBFF40071C819568C1CEB32AFB0D86EDC",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
+			"ShaderMapHash": "760405D83D976E87B3583AF3262590531BF86B9F",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "9693E599EE2CCC54BFBC80A39E4684289C688023",
+			"Assets": [
+				"/Game/OM/Models/Star/Star_001"
 			]
 		},
 		{
@@ -125,12 +131,6 @@
 			"ShaderMapHash": "E3FD30CDA7B62E177EFD811572C8D0A2A8153D0E",
 			"Assets": [
 				"/Game/OM/Models/Star/lens_001"
-			]
-		},
-		{
-			"ShaderMapHash": "9693E599EE2CCC54BFBC80A39E4684289C688023",
-			"Assets": [
-				"/Game/OM/Models/Star/Star_001"
 			]
 		},
 		{
@@ -158,9 +158,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "60CD5C1CBFF40071C819568C1CEB32AFB0D86EDC",
+			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
 			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
@@ -173,12 +173,6 @@
 			"ShaderMapHash": "249F17EDBFE216B9E5C5B72F7B66CCA8D35E9105",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "760405D83D976E87B3583AF3262590531BF86B9F",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -207,15 +201,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3DA6729C5BC4B921CE58A50C31AB646CC6C50880",
+			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "0D3C1D5E47C8A35E956C93ECA6240F571FE020A2",
 			"Assets": [
 				"/Game/OM/ARcrosshair_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3DA6729C5BC4B921CE58A50C31AB646CC6C50880",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2943F355D8F77E138386D47536658CA8E2B15D6A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
@@ -234,24 +246,6 @@
 			"ShaderMapHash": "0EE4C5416736118707EF5DBD5F034D8939D33B27",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
-			]
-		},
-		{
-			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
-			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
@@ -306,6 +300,12 @@
 			"ShaderMapHash": "0995326FC57354258848395206C5AD3A0D76CC58",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{

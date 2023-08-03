@@ -97,10 +97,6 @@
 			"ChunkId": "e7ee916fe6acb66c00000001"
 		},
 		{
-			"Path": "ARProject/Content/OM/DataAssets/GoogleARCoreImageDatabase.uasset",
-			"ChunkId": "cafd7c05d543a8a900000001"
-		},
-		{
 			"Path": "ARProject/Content/OM/DataAssets/MyARSessionConfig.uasset",
 			"ChunkId": "28406e4036f3f3b000000001"
 		},
@@ -2796,12 +2792,6 @@
 			"Name": "/Game/OM/DataAssets/BoatCandidateImage",
 			"ExportBundleChunkIds": [
 				"e7ee916fe6acb66c00000001"
-			]
-		},
-		{
-			"Name": "/Game/OM/DataAssets/GoogleARCoreImageDatabase",
-			"ExportBundleChunkIds": [
-				"cafd7c05d543a8a900000001"
 			]
 		},
 		{
