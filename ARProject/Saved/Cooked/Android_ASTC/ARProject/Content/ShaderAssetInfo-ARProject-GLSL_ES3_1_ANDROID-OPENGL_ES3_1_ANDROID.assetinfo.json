@@ -50,6 +50,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "68BFDBF597534D1C85704B04EEB3BF55BE5B5910",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "679B664C7114BA6381E037E9881CB7CE236C1A7B",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
 			"ShaderMapHash": "9630D0C46C11799FE931AE1254D8F0A97657449B",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
@@ -59,12 +71,6 @@
 			"ShaderMapHash": "94A4221EE2E5FE74C4DE1494A79E4F6C7AC212DE",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "679B664C7114BA6381E037E9881CB7CE236C1A7B",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -98,30 +104,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "68BFDBF597534D1C85704B04EEB3BF55BE5B5910",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "60CD5C1CBFF40071C819568C1CEB32AFB0D86EDC",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "760405D83D976E87B3583AF3262590531BF86B9F",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "9693E599EE2CCC54BFBC80A39E4684289C688023",
-			"Assets": [
-				"/Game/OM/Models/Star/Star_001"
-			]
-		},
-		{
 			"ShaderMapHash": "6EEC3646E1CD33C17A028D9471B02D2AD7F3E3EA",
 			"Assets": [
 				"/Game/OM/Models/Star/glassesFrames_001"
@@ -131,6 +113,30 @@
 			"ShaderMapHash": "E3FD30CDA7B62E177EFD811572C8D0A2A8153D0E",
 			"Assets": [
 				"/Game/OM/Models/Star/lens_001"
+			]
+		},
+		{
+			"ShaderMapHash": "9693E599EE2CCC54BFBC80A39E4684289C688023",
+			"Assets": [
+				"/Game/OM/Models/Star/Star_001"
+			]
+		},
+		{
+			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "60CD5C1CBFF40071C819568C1CEB32AFB0D86EDC",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8C147E304DB585A6314E2A03A70A4115863EF9EE",
+			"Assets": [
+				"/Game/ProductAssets/Materials/M_Plastic"
 			]
 		},
 		{
@@ -158,12 +164,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5DC7F28CC852227DAEE76FAA34AF723A195E2F02",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "EB5B219D4F7183A5D84395EBC073C9A6A12605C2",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -173,6 +173,12 @@
 			"ShaderMapHash": "249F17EDBFE216B9E5C5B72F7B66CCA8D35E9105",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "760405D83D976E87B3583AF3262590531BF86B9F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -201,24 +207,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0D3C1D5E47C8A35E956C93ECA6240F571FE020A2",
-			"Assets": [
-				"/Game/OM/ARcrosshair_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "3DA6729C5BC4B921CE58A50C31AB646CC6C50880",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -228,6 +216,42 @@
 			"ShaderMapHash": "2943F355D8F77E138386D47536658CA8E2B15D6A",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1DC483BBD13D4C29A9C9BDD6FE15E49C57A7544",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "77FA5FD11A074A47A51E4363F6F3B7EE0D4A88BF",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Arrow"
+			]
+		},
+		{
+			"ShaderMapHash": "446E25FD09B995D1A73A6D32BFF122041D283C1B",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/UI/Materials/M_CircularMask"
+			]
+		},
+		{
+			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FAD086979811368FCA047758ABE43B6F5B553007",
+			"Assets": [
+				"/Game/OM/Material/Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "D1AC47127F1F1A6DC4C11674DD8666985151DB22",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Shadow"
 			]
 		},
 		{
@@ -249,21 +273,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E469D6D0F6486A6B64FED2B11B69AA8A54249EE2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "B1ACC50862340583906C33BEA0EBA9C5CD77DD1E",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D3C1D5E47C8A35E956C93ECA6240F571FE020A2",
+			"Assets": [
+				"/Game/OM/ARcrosshair_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "8FB6DB271CF622B531128BB3C37CC1A3DD8E027B",
 			"Assets": [
 				"/Game/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI"
-			]
-		},
-		{
-			"ShaderMapHash": "FAD086979811368FCA047758ABE43B6F5B553007",
-			"Assets": [
-				"/Game/OM/Material/Gradient"
-			]
-		},
-		{
-			"ShaderMapHash": "D1AC47127F1F1A6DC4C11674DD8666985151DB22",
-			"Assets": [
-				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Shadow"
 			]
 		},
 		{
@@ -279,15 +309,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "904B6FB840DF64C25706675406ACA896EF8E3CC4",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Placeable"
+			]
+		},
+		{
 			"ShaderMapHash": "28079EB28DB926DD808FBA988ADD0E0D6B7E7DCB",
 			"Assets": [
 				"/Game/OM/Models/a_statue_of_a_sheep/textured_0"
 			]
 		},
 		{
+			"ShaderMapHash": "E4E0AE73C5D1191FA37CA9421E952D488741E3DF",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "AFA5FAB9D272224DFBEE2BD0D66E99945EAE449E",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/UI/Materials/M_CircularMenuSelection"
+			]
+		},
+		{
 			"ShaderMapHash": "2966B2D15271D5CBC11A78334E7798937F8F8682",
 			"Assets": [
 				"/Game/TMPosedHumansChildrenPack1/Characters/Child07/materials/Child"
+			]
+		},
+		{
+			"ShaderMapHash": "65DFFFCF459193291336696FDE0FA4438C59A822",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/UI/Materials/M_ButtonUI"
 			]
 		},
 		{
@@ -300,12 +354,6 @@
 			"ShaderMapHash": "0995326FC57354258848395206C5AD3A0D76CC58",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "80C2A09B90B019DA4B117486216F2E851AFFEC15",
-			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
@@ -336,6 +384,12 @@
 			"ShaderMapHash": "129AB1490EC3B6C8AC0B2BECCD0914B21655D58C",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3821A337A5EAFF752A47B612ABD7FB6C46C8F81E",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Fallback"
 			]
 		}
 	]
