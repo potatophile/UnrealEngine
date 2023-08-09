@@ -2780,7 +2780,7 @@ void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out 
   min16float4 Local17 = ProcessMaterialColorTextureLookup(Texture2DSample(Material_Texture2D_0, Material_Texture2D_0Sampler, Local6));
   min16float Local18 = 1.F;
   min16float Local19 = (Local17.r / 1000.);
-  min16float Local20 = select_internal((abs(Local15 - Local19) > 1.0000000000000001E-5), select_internal((Local15 >= Local19), 0.80000000999999998, 0.), 0.80000000999999998);
+  min16float Local20 = select_internal((abs(Local15 - Local19) > 1.0000000000000001E-5), select_internal((Local15 >= Local19), 1., 0.), 1.);
   PixelMaterialInputs.EmissiveColor = Local9.rgb;
   PixelMaterialInputs.Opacity = Local20;
   PixelMaterialInputs.OpacityMask = 1.;

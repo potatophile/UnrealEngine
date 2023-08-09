@@ -516,7 +516,6 @@ Engine:Kismet:bOptimizeExecutionFlowStack:0=true
 Engine:Kismet:bOptimizeAdjacentStates:0=true
 Engine:Kismet:bEnableInheritableComponents:0=true
 Engine:Kismet:bDeferDependencyLoads:0=true
-Engine:Kismet:bExecutionAfterReturn:0=false
 Engine:Kismet:bCanSuppressAccessViolation:0=false
 Engine:Kismet:bIgnoreCompileOnLoadErrorsOnBuildMachine:0=false
 Engine:Kismet:bAllowNativeComponentClassOverrides:0=true

@@ -1,1 +1,1 @@
--project=../../../ARProject/ARProject.uproject
+-project=../../../ARProject/ARProject.uproject /Game/OM/AR_Interface -Messaging -SessionId=C9994F5947A45420620F3F9375B6D5E0 -SessionOwner="Yashu" -SessionName="Launch On Device"
